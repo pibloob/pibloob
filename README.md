@@ -1,5 +1,5 @@
 ## Hiii
-
+![](https://i.imgur.com/J2BI6ma.gif)
 Welcome to my GitHub profile! I'm Irem, a passionate computer science student on a journey to become a data scientist. Here's a bit about me:
 
 - 🔭 I’m currently working on **exciting data science projects**
